@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "dependencies": {
+    "a-vitest-test-modulea": "^1.0.2"
+  },
+  "type": "module",
+  "exports": "./test.js"
+}

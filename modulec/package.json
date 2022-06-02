@@ -1,0 +1,12 @@
+{
+  "name": "a-vitest-test-modulec",
+  "version": "1.0.1",
+  "description": "A module to reproduce a bug in vitest",
+  "exports": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
